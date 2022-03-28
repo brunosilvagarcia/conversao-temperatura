@@ -1,8 +1,7 @@
 # KubeDev
 ## conversao-temperatura
-Para rodar esta aplicação no Windows com auxílio do docker executar o cmd abaixo na pasta src:
+Para rodar esta aplicação no Windows com auxílio do docker execute os commandos abaixo, estando nesta pasta principal do projeto:
 ```
-cd src
-start docker-start.cmd
+start docker.cmd
 ```
 Para testar abre o navegador com http://localhost:8282

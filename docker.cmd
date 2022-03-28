@@ -1,3 +1,4 @@
+cd src
 docker system prune --force
 docker container rm -f conversao-temperatura
 docker image build -t brunosilvagarciadocker/conversao-temperatura:latest .
