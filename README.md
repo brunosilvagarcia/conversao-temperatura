@@ -2,6 +2,14 @@
 ## conversao-temperatura
 Para rodar esta aplicação no Windows com auxílio do docker execute os commandos abaixo, estando nesta pasta principal do projeto:
 ```
-start docker.cmd
+start container.cmd
 ```
 Para testar abre o navegador com http://localhost:8282
+
+Para rodar seu container localmente pelo Kubernetes no Windows execute os comandos abaixo:
+```
+start k8s.cmd
+```
+Para testar abre o navegador com http://localhost:8080
+
+
