@@ -12,4 +12,4 @@ start k8s.cmd
 ```
 Para testar abre o navegador com http://localhost:8080
 
-
+[![CI-CD](https://github.com/brunosilvagarcia/conversao-temperatura/actions/workflows/main.yml/badge.svg)](https://github.com/brunosilvagarcia/conversao-temperatura/actions/workflows/main.yml)
